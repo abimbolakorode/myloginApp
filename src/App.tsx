@@ -1,5 +1,5 @@
 import React from 'react';
-import Login from 'src/login;
+import Login from './App.tsx';
 
 const App: React.FC = () => {
   return (
@@ -10,4 +10,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-
